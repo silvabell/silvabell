@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @silvabell
+- 👀 estou interressada em aprender a programar novas linguagens ..
+- 🌱 eu estou aprendendo a programar no javascript e scratch ..
+- <a href="https://instagram.com/_silvaizabell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
